@@ -1,4 +1,3 @@
-This is the repo for CS 423 Operating System Design Course taught at the University of Illinois at Urbana-Champaign.
+Repo of the course CS498 - Trustworthy Machine Learning's website.
 
-The current course website is:
-<a href="https://cs423-uiuc.github.io/fall19/">https://cs423-uiuc.github.io/spring20/</a>
+GL & HF!
